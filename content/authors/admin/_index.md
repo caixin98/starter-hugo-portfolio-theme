@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:caixin16@mails.ucas.ac.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Cai_Xin_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'caixin16@mails.ucas.ac.cn'
