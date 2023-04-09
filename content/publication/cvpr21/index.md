@@ -1,5 +1,5 @@
 ---
-title: 'Gaze estimation with an ensemble of four architectures'
+title: 'Gaze Estimation with an Ensemble of Four Architectures'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
