@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Xin Cai. This work is licensed under {license}'
+    notice: '© Copyright {year} Xin Cai. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -63,7 +63,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: ture
   privacy_pack:
     enable: false
   repository:
