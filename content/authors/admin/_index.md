@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Chinese Academy of Sciences
-    url: https://www.ucas.ac.cn/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D Computer Vision, Gaze Estimation and Computational Photography.
+bio: My research interests include 3D Computer Vision and Computational Photography.
 
 # Interests to show in About widget
 interests:
@@ -82,7 +82,7 @@ highlight_name: true
 ---
 
 
-I received my bachelor’s degree in Computer Science from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in 2020. Currently, I am a Master’s student at [VIPL Group](http://vipl.ict.ac.cn/), [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/) , supervised by [Prof. Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en) and [Prof. Jiabei Zeng](https://dualplus.github.io/). I will start my Ph.D. at [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) in Fall 2023, supervised by [Prof. Tianfan Xue](https://tianfan.info/). 
+I am a first-year Ph.D. student at [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/) of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Tianfan Xue](https://tianfan.info/). I received my bachelor’s degree in Computer Science from [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) in 2020 and my Master’s student at [VIPL Group](http://vipl.ict.ac.cn/), [Institute of Computing Technology (ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences (CAS)](https://www.cas.cn/) , supervised by [Prof. Shiguang Shan](https://scholar.google.com/citations?user=Vkzd7MIAAAAJ&hl=en) and [Prof. Jiabei Zeng](https://dualplus.github.io/).  
 
 
 

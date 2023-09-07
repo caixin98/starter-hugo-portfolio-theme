@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: about
 
 # This file represents a page section.
 headless: true
@@ -21,7 +21,7 @@ design:
 👋 Hey there! It's great to see you on my personal homepage! 🌟
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-My name is [**Xin Cai (蔡昕)**](/about/), and I'm a student at UCAS. 💻
+My name is [**Xin Cai (蔡昕)**](/about/), and I'm a student at CUHK. 💻
 
 I'm thrilled to share my journey and experiences with you. Check out my [resumé](/about/) and portfolio below to get to know me better. 😍
 

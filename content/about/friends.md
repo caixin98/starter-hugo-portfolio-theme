@@ -22,4 +22,4 @@ subtitle: ''
 
 - [Yuan-Hang Zhang (UCAS)](https://www.sailorzhang.com/)
 - [Jiangfei Duan (CUHK)](https://jf-d.github.io/)
-- [Xunran Sun (ICT)](openai.com)
+- [Xuran Sun (ICT)](http://vipl.ict.ac.cn/edu/student/doctoral/202205/t20220518_123492.html)
