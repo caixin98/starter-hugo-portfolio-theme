@@ -32,6 +32,8 @@ content:
       tag: GE
     - name: Computer Vision
       tag: CV
+    - name: Lensless Imaging
+      tag: LI
     # - name: NLP
     #   tag: NLP
 
