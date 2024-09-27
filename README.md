@@ -1,5 +1,12 @@
 <a href="https://gohugo.io/"><img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565"></a>
 
+wget https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_extended_0.111.3_darwin-universal.tar.gz
+tar -xzf hugo_extended_0.111.3_darwin-universal.tar.gz
+sudo mv hugo /opt/homebrew/bin
+
+
+
+
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](https://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go](https://go.dev/).
 
 [Website](https://gohugo.io) |
